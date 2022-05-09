@@ -8,7 +8,7 @@ function App() {
       <PersonalCard 
       lname = {'Doe'}
       fname = {'Jane'}
-      age = {45}
+      age = {42}
       hairColor = {'Black'}
       />
       <PersonalCard 
